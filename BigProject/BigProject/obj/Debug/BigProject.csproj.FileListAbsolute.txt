@@ -1,0 +1,9 @@
+D:\asp.net\3.1.15\BigProject\BigProject\bin\Debug\BigProject.exe.config
+D:\asp.net\3.1.15\BigProject\BigProject\bin\Debug\BigProject.exe
+D:\asp.net\3.1.15\BigProject\BigProject\bin\Debug\BigProject.pdb
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.csprojResolveAssemblyReference.cache
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.Form1.resources
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.Cache
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.exe
+D:\asp.net\3.1.15\BigProject\BigProject\obj\Debug\BigProject.pdb

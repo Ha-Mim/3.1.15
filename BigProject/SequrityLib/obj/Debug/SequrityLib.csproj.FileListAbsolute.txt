@@ -1,0 +1,4 @@
+D:\asp.net\3.1.15\BigProject\SequrityLib\bin\Debug\SequrityLib.dll
+D:\asp.net\3.1.15\BigProject\SequrityLib\bin\Debug\SequrityLib.pdb
+D:\asp.net\3.1.15\BigProject\SequrityLib\obj\Debug\SequrityLib.dll
+D:\asp.net\3.1.15\BigProject\SequrityLib\obj\Debug\SequrityLib.pdb

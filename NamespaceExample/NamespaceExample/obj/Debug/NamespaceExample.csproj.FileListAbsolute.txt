@@ -1,0 +1,1 @@
+D:\asp.net\3.1.15\NamespaceExample\NamespaceExample\bin\Debug\NamespaceExample.exe.config

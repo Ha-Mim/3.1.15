@@ -1,0 +1,5 @@
+D:\asp.net\3.1.15\BigProject\DBLib\bin\Debug\DBLib.dll
+D:\asp.net\3.1.15\BigProject\DBLib\bin\Debug\DBLib.pdb
+D:\asp.net\3.1.15\BigProject\DBLib\obj\Debug\DBLib.csprojResolveAssemblyReference.cache
+D:\asp.net\3.1.15\BigProject\DBLib\obj\Debug\DBLib.dll
+D:\asp.net\3.1.15\BigProject\DBLib\obj\Debug\DBLib.pdb
